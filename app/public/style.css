@@ -1,7 +1,7 @@
 .jumbotron {
   background-color: transparent;
-  color: #825d98;
-    text-shadow: 1px 3px 1px black, 0 0 5px #825d98, 0 0 5px darkblue;
+  color: #245580;
+    text-shadow: 1px 3px 1px black, 0 0 5px #245580, 0 0 5px darkblue;
     margin-top: -50px;
 }
 
@@ -29,10 +29,10 @@ body {
 
 
 .panel-title{
-  color: #825d98;
-    text-shadow: 1px 1px 1px black, 0 0 1px #825d98, 0 0 2px darkblue;
+  color: #245580;
+    text-shadow: 1px 1px 1px black, 0 0 1px #245580, 0 0 2px darkblue;
 }
 h4{
-  color: #825d98;
-    text-shadow: 1px 1px 1px black, 0 0 5px #825d98, 0 0 5px darkblue;
+  color: #245580;
+    text-shadow: 1px 1px 1px black, 0 0 5px #245580, 0 0 5px darkblue;
 }
