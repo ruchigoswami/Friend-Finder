@@ -1,0 +1,38 @@
+.jumbotron {
+  background-color: transparent;
+  color: #825d98;
+    text-shadow: 1px 3px 1px black, 0 0 5px #825d98, 0 0 5px darkblue;
+    margin-top: -50px;
+}
+
+body {
+    background: url("./images/friends.jpg") no-repeat center center fixed;
+    background-size: cover;
+  }
+
+.panel {
+    background-color: rgba(207, 184, 244, .5);
+}
+
+#imagepreview {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.caption {
+  font-size: 24px;
+  font-style: italic;
+  font-variant: small-caps;
+
+}
+
+
+.panel-title{
+  color: #825d98;
+    text-shadow: 1px 1px 1px black, 0 0 1px #825d98, 0 0 2px darkblue;
+}
+h4{
+  color: #825d98;
+    text-shadow: 1px 1px 1px black, 0 0 5px #825d98, 0 0 5px darkblue;
+}
